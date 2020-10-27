@@ -6,7 +6,20 @@
     <description>Recent content in Data Science Portfolio on Melania Ab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Mar 2019 11:00:59 -0400</lastBuildDate><atom:link href="https://melaniaAB.github.io/Melania_Abrahamian_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Apr 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://melaniaAB.github.io/Melania_Abrahamian_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project C: Drug-like Targets for Coronavirus</title>
+      <link>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_c/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_c/</guid>
+      <description>General information: Can we find potent bioactive molecules with drug-like properties against COVID19?
+Coronavirus: Coronavirus family is a large family of coronaviruses including the cause of COVID-19 pandemic, SARS-CoV-2. Coronaviruses usually cause mild to moderate upper-respiratory tract illnesses, like the common cold. However, SARS-CoV-2 can cause serious illness and even death. Why people’s COVID-19 symptoms vary so greatly isn’t fully understood.
+Approach:
+Data cleaning/wrangling, processing and visualization:
+Ref. documents in Coronavirus_part1/2/3_Bioactivity_Data_Concised_Acetylcholinesterase.</description>
+    </item>
+    
     <item>
       <title>Project B: RNA Binding Proteins</title>
       <link>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_b/</link>

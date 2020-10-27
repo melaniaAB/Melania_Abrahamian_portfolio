@@ -4,7 +4,14 @@
   
   <url>
     <loc>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/</loc>
-    <lastmod>2019-03-10T11:00:59-04:00</lastmod>
+    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_c/</loc>
+    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
