@@ -6,7 +6,22 @@
     <description>Recent content in Data Science Portfolio on Melania Ab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://melaniaAB.github.io/Melania_Abrahamian_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Nov 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://melaniaAB.github.io/Melania_Abrahamian_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project D: From an ML model to a Prediction App</title>
+      <link>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_d_ml_in_heroku_thru_flask/</link>
+      <pubDate>Mon, 09 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_d_ml_in_heroku_thru_flask/</guid>
+      <description>General information: Creating the app for an ML model.
+  image:PluralSight
+Heroku API: The journey of a model: an ML Model becomes available as an app in Heroku through Flask.
+Approach:
+Data cleaning/wrangling, processing application of a WSGI web application framework (Flask) creating app in platform API (Heroku)
+Ref. Flask and Heroku
+ Predict monthly rates for a grant writer with coding/programming skills  Let&amp;rsquo;s start with Exploratory Data Analysis (EDA) and ML.</description>
+    </item>
+    
     <item>
       <title>Project C: Drug-like Targets for Coronavirus</title>
       <link>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_c/</link>

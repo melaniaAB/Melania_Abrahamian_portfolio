@@ -4,7 +4,14 @@
   
   <url>
     <loc>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
+    <lastmod>2020-11-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_d_ml_in_heroku_thru_flask/</loc>
+    <lastmod>2020-11-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
