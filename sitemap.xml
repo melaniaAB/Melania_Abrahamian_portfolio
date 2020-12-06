@@ -63,6 +63,12 @@
   </url>
   
   <url>
+    <loc>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_e_stock/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
