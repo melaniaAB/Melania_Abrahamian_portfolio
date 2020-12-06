@@ -6,7 +6,21 @@
     <description>Recent content in Data Science Portfolio on Melania Ab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://melaniaAB.github.io/Melania_Abrahamian_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://melaniaAB.github.io/Melania_Abrahamian_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project E: US Bank Stocks</title>
+      <link>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_e_stock/</link>
+      <pubDate>Tue, 01 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_e_stock/</guid>
+      <description>General information: Analyses on the US bank stocks from 2006 - 2020.
+Approach:
+Data acquisition, cleaning/wrangling, processing and visualization:
+Ref. Data from Yahoo Finance
+ Application of different data visualization steps  Let&amp;rsquo;s start with data acquisition from Yahoo Fiance!
+ ## examplesfrom pandas_datareader import data, wbimport pandas as pd#call for datesstart = datetime.datetime(2006, 1, 1)end = datetime.datetime(2020, 12, 1) #Bank of AmericaBAC = data.</description>
+    </item>
+    
     <item>
       <title>Project D: From an ML model to a Prediction App</title>
       <link>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_d_ml_in_heroku_thru_flask/</link>
@@ -68,20 +82,6 @@ Approach:
       <guid>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/contact/</guid>
       <description>Follow me on:
    Platform url     LinkedIn: https://www.linkedin.com/in/melania-abrahamian-phd   Github: https://github.com/melaniaAB   email: melania.abrahamian@gmail.com    </description>
-    </item>
-    
-    <item>
-      <title>Project E: US Bank Stocks</title>
-      <link>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_e_stock/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_e_stock/</guid>
-      <description>General information: Analyses on the US bank stocks from 2006 - 2020.
-Approach:
-Data acquisition, cleaning/wrangling, processing and visualization:
-Ref. Data from Yahoo Finance
- Application of different data visualization steps  Let&amp;rsquo;s start with data acquisition from Yahoo Fiance!
- ## examplesfrom pandas_datareader import data, wbimport pandas as pd#call for datesstart = datetime.datetime(2006, 1, 1)end = datetime.datetime(2020, 12, 1) #Bank of AmericaBAC = data.</description>
     </item>
     
   </channel>
