@@ -8,7 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project E: US Bank Stocks</title>
+      <title>Reconstructing clearer images</title>
+      <link>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_ff/</link>
+      <pubDate>Tue, 09 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_ff/</guid>
+      <description>General information: Application of Autoencoders in image denoising. An autoencoder contains an encoder and decoder. These two parts function automatically and give rise to the name &amp;ldquo;autoencoder&amp;rdquo;. In denoising, image/data is corrupted through the addition of random noise, and the model is trained to predict the original uncorrupted data. Denoising autoencoders can be used for aspects such as cleaning old stained scanned images or feature selection in projects such as cancer biology.</description>
+    </item>
+    
+    <item>
+      <title>US Bank Stocks</title>
       <link>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_e/</link>
       <pubDate>Mon, 30 Nov 2020 10:58:08 -0400</pubDate>
       
@@ -18,11 +27,25 @@ Approach:
 Data acquisition, cleaning/wrangling, processing and visualization:
 Ref. Data from Yahoo Finance
  Application of different data visualization steps  Let&amp;rsquo;s start with data acquisition from Yahoo Finance!
- ## examplesfrom pandas_datareader import data, wbimport pandas as pd#call for datesstart = datetime.datetime(2006, 1, 1)end = datetime.datetime(2020, 12, 1)  Now what are the best stock years per bank:</description>
+ ## examplesfrom pandas_datareader import data, wbimport pandas as pd#call for datesstart = datetime.datetime(2006, 1, 1)end = datetime.datetime(2020, 12, 1) Now what are the best stock years per bank:</description>
     </item>
     
     <item>
-      <title>Project D: From an ML model to a Prediction App</title>
+      <title>US Bank Stocks</title>
+      <link>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_f/</link>
+      <pubDate>Mon, 30 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_f/</guid>
+      <description>General information: Analyses on the US bank stocks from 2006 - 2020.
+Approach:
+Data acquisition, cleaning/wrangling, processing and visualization:
+Ref. Data from Yahoo Finance
+ Application of different data visualization steps  Let&amp;rsquo;s start with data acquisition from Yahoo Finance!
+ ## examplesfrom pandas_datareader import data, wbimport pandas as pd#call for datesstart = datetime.datetime(2006, 1, 1)end = datetime.datetime(2020, 12, 1) Now what are the best stock years per bank:</description>
+    </item>
+    
+    <item>
+      <title>From an ML model to a Prediction App</title>
       <link>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_d_ml_in_heroku_thru_flask/</link>
       <pubDate>Mon, 09 Nov 2020 10:58:08 -0400</pubDate>
       
@@ -37,7 +60,7 @@ Ref. Flask and Heroku
     </item>
     
     <item>
-      <title>Project C: Drug-like Targets for Coronavirus</title>
+      <title>Drug-like Targets for Coronavirus</title>
       <link>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_c/</link>
       <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
       
@@ -50,7 +73,7 @@ Ref. documents in Coronavirus_part1/2/3_Bioactivity_Data_Concised_Acetylcholines
     </item>
     
     <item>
-      <title>Project B: RNA Binding Proteins</title>
+      <title>RNA Binding Proteins</title>
       <link>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_b/</link>
       <pubDate>Sun, 10 Mar 2019 11:00:59 -0400</pubDate>
       
@@ -63,7 +86,7 @@ Putative components of the mtRNA transport pathway have been identified by PNPas
     </item>
     
     <item>
-      <title>Project A: Nutrient Transporters</title>
+      <title>Nutrient Transporters</title>
       <link>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_a/</link>
       <pubDate>Mon, 09 Jan 2017 10:58:08 -0400</pubDate>
       
