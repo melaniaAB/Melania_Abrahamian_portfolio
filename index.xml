@@ -19,23 +19,9 @@
     <item>
       <title>US Bank Stocks</title>
       <link>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_e/</link>
-      <pubDate>Mon, 30 Nov 2020 10:58:08 -0400</pubDate>
+      <pubDate>Sun, 20 Dec 2020 10:58:08 -0400</pubDate>
       
       <guid>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_e/</guid>
-      <description>General information: Analyses on the US bank stocks from 2006 - 2020.
-Approach:
-Data acquisition, cleaning/wrangling, processing and visualization:
-Ref. Data from Yahoo Finance
- Application of different data visualization steps  Let&amp;rsquo;s start with data acquisition from Yahoo Finance!
- ## examplesfrom pandas_datareader import data, wbimport pandas as pd#call for datesstart = datetime.datetime(2006, 1, 1)end = datetime.datetime(2020, 12, 1) Now what are the best stock years per bank:</description>
-    </item>
-    
-    <item>
-      <title>US Bank Stocks</title>
-      <link>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_f/</link>
-      <pubDate>Mon, 30 Nov 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_f/</guid>
       <description>General information: Analyses on the US bank stocks from 2006 - 2020.
 Approach:
 Data acquisition, cleaning/wrangling, processing and visualization:
