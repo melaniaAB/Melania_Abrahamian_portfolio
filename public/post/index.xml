@@ -8,6 +8,19 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>NLP in Metagenomics</title>
+      <link>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_g_metagenomics/</link>
+      <pubDate>Tue, 09 Aug 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_g_metagenomics/</guid>
+      <description>General information: Application of NLP in metagenomics gene prediction. Next generation sequencing technologies applied in metagenomics results in numerous sequencing fragments coming from different species. The most fundamental aspect in metagonmics is the accurate identification of genes from metagenomics fragments. Deep learning approaches show promising potential for the gene identifications from metagenomics.
+Approach:
+Data acquisition, Metagenomics Datasets:
+Ref. NIH datasets
+ Let&amp;rsquo;s check the dataset  Dataset includes metagenomics dataset including before and after treatment data for a canine!</description>
+    </item>
+    
+    <item>
       <title>Reconstructing clearer images</title>
       <link>https://melaniaAB.github.io/Melania_Abrahamian_portfolio/post/project_ff/</link>
       <pubDate>Tue, 09 Feb 2021 10:58:08 -0400</pubDate>
